@@ -64,8 +64,17 @@ a:hover {
   border-radius: 50%;
 }
 
-#socials li {
-  display: inline;
+/* #socials li {
+  font-size: 100px;
+  /* display: inline; */
+  /* list-style: none; */
+
+.social-icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100px;
+  margin: 0px auto;
+  font-size: 50px;
 }
 
 @media (max-width: 960) {
